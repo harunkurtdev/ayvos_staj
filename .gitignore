@@ -1,0 +1,16 @@
+.__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyz.d
+
+.vscode
+
+week*/__pycache__
+week*/__pycache__/*.pyc
+
+week*/*.pt
+
+.pt
