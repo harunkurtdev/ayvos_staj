@@ -5,11 +5,15 @@
 *.pyw
 *.pyz
 *.pyz.d
+.DS_Store
 
 .vscode
 
 week*/__pycache__
 week*/__pycache__/*.pyc
+week*/day*/__pycache__/*.pyc
+
+week*/day*/*.pt
 
 week*/*.pt
 
