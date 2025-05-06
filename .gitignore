@@ -12,6 +12,8 @@
 week*/__pycache__
 week*/__pycache__/*.pyc
 week*/day*/__pycache__/*.pyc
+week6/*
+week6/
 
 week*/day*/*.pt
 
